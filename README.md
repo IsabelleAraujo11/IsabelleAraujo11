@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 📍 Universidade Católica de Brasilia  
-💻 Desenvolvedora Front-end em formação  
+💻 Desenvolvedora Web em formação  
 🚀 Focada em criar interfaces modernas, funcionais e bem estruturadas
 
 ---
